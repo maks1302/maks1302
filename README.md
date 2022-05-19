@@ -122,8 +122,5 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ---
 
-[website]: https://sabesansathananthan.now.sh
-[twitter]: https://twitter.com/TheSabesan
-[facebook]: https://www.facebook.com/sathananthan.sabesan
-[instagram]: https://www.instagram.com/s_sabesan
-[linkedin]: https://www.linkedin.com/in/sabesan96
+[twitter]: https://twitter.com/MaxDziura
+[linkedin]: [https://www.linkedin.com/in/sabesan96](https://www.linkedin.com/in/maksym-dziura-797184119/)
