@@ -34,9 +34,6 @@
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code>
-<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
-[<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
 [<code>
@@ -72,7 +69,7 @@
 
 ## 📝 Latest Blog Posts
 
-These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to](https://dev.to/thesabesan):
+These are my latest posts on [Twitter](https://twitter.com/MaxDziura)
 
 ### Medium
 
