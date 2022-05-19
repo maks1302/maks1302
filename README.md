@@ -15,6 +15,7 @@
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -71,7 +72,11 @@
 
 ---
 
+[gmail]: mailto:max13021302@gmail.com
 [twitter]: https://twitter.com/MaxDziura
 [telegram]: https://t.me/demploy
-[discord]: discordapp.com/users/808372028632989706
-[linkedin]: https://www.linkedin.com/in/sabesan96](https://www.linkedin.com/in/maksym-dziura-797184119/
+[discord]: https://discordapp.com/users/808372028632989706
+[linkedin]: https://www.linkedin.com/in/maksym-dziura-797184119/
+
+
+
