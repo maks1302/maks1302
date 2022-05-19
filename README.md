@@ -7,13 +7,14 @@
 - 🔭 I’m currently working on a my final year project!
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Dive deep into Rust blockchain development
 
 ### Connect with me:
 
 [<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -72,4 +73,5 @@
 
 [twitter]: https://twitter.com/MaxDziura
 [telegram]: https://t.me/demploy
+[discord]: discordapp.com/users/808372028632989706
 [linkedin]: https://www.linkedin.com/in/sabesan96](https://www.linkedin.com/in/maksym-dziura-797184119/
