@@ -121,4 +121,4 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 ---
 
 [twitter]: https://twitter.com/MaxDziura
-[linkedin]: [https://www.linkedin.com/in/sabesan96](https://www.linkedin.com/in/maksym-dziura-797184119/)
+[linkedin]: https://www.linkedin.com/in/sabesan96](https://www.linkedin.com/in/maksym-dziura-797184119/
