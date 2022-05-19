@@ -13,6 +13,7 @@
 
 [<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -69,9 +70,6 @@
 
 ---
 
-## 📝 Latest Blog Posts
-These are my latest posts on [Twitter](https://twitter.com/MaxDziura)
----
-
 [twitter]: https://twitter.com/MaxDziura
+[telegram]: https://t.me/demploy
 [linkedin]: https://www.linkedin.com/in/sabesan96](https://www.linkedin.com/in/maksym-dziura-797184119/
