@@ -68,8 +68,7 @@
 ---
 
 ## 📝 Latest Blog Posts
-
-###These are my latest posts on [Twitter](https://twitter.com/MaxDziura)
+These are my latest posts on [Twitter](https://twitter.com/MaxDziura)
 ---
 
 [twitter]: https://twitter.com/MaxDziura
