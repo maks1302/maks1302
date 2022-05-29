@@ -1,6 +1,6 @@
 ## All the repos are private
 
-### Hi there, I'm Max Dziura 👋
+### Hi there 👋
 
 ## I'm a freelance developer, crypto enthusiast!
 
