@@ -77,9 +77,3 @@
 [telegram]: https://t.me/demploy
 [discord]: https://discordapp.com/users/808372028632989706
 [linkedin]: https://www.linkedin.com/in/maksym-dziura-797184119/
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maks1302&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
