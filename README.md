@@ -5,7 +5,7 @@
 ## I'm a freelance developer, crypto enthusiast!
 
 - 🔭 I’m currently working on a my final year project!
-- 🌱 Learning Rust
+- 🌱 Learning Rust!
 - 🥅 2023 Goals: Dive deep into Rust blockchain development
 
 ### Connect with me:
