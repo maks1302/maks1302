@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a my final year project!
 - 🌱 Learning Rust!
-- 🥅 2023 Goals: Dive deep into Rust blockchain development
+- 🥅 2023 Goals: Dive deep into Rust blockchain development!
 
 ### Connect with me:
 
