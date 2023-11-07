@@ -9,6 +9,7 @@
 - 🥅 2023 Goals: Dive deep into Rust blockchain development!
 
 ### Connect with me:
+Discord - dmaxiam#0744
 
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
