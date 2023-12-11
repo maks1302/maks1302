@@ -1,4 +1,4 @@
-## All the repos are private
+## All repos are private
 
 ### Hi there 👋
 
