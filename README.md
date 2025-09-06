@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a my final year project!
 - 🌱 Learning Rust!
-- 🥅 2024 Goals: Master Rust!
+- 🥅 2025 Goals: Master Rust!
 
 ### Connect with me:
 Discord - dmaxiam
